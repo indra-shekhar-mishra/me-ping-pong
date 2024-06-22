@@ -1,1 +1,11 @@
-
+canvas 
+{
+          border-radius: 5px;
+          box-shadow: 15px 15px 15px yellow;
+          border: 5px solid black ;
+        margin-top: 60px ;
+}
+.modal-dialog
+{
+    width: 70%;
+}
